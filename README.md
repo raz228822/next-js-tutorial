@@ -1,2 +1,2 @@
-Deplyoed Website :
+Deployed Website :
 https://next-js-tutorial-ochre-pi.vercel.app/
