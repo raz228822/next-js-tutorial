@@ -1,0 +1,12 @@
+{
+  "/page": "app/page.js",
+  "/about/page": "app/about/page.js",
+  "/posts/page": "app/posts/page.js",
+  "/api/posts/route": "app/api/posts/route.js",
+  "/signin/page": "app/signin/page.js",
+  "/posts/[postId]/page": "app/posts/[postId]/page.js",
+  "/posts/new/page": "app/posts/new/page.js",
+  "/api/posts/[postId]/route": "app/api/posts/[postId]/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/posts/[postId]/edit/page": "app/posts/[postId]/edit/page.js"
+}

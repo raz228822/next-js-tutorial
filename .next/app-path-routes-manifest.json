@@ -1,0 +1,12 @@
+{
+  "/page": "/",
+  "/about/page": "/about",
+  "/posts/page": "/posts",
+  "/api/posts/route": "/api/posts",
+  "/signin/page": "/signin",
+  "/posts/[postId]/page": "/posts/[postId]",
+  "/posts/new/page": "/posts/new",
+  "/api/posts/[postId]/route": "/api/posts/[postId]",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/posts/[postId]/edit/page": "/posts/[postId]/edit"
+}

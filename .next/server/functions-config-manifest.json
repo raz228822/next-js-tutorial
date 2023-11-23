@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "functions": {
+    "/api/auth/[...nextauth]": {},
+    "/about": {},
+    "/": {},
+    "/posts/new": {},
+    "/posts": {},
+    "/posts/[postId]/edit": {},
+    "/posts/[postId]": {}
+  }
+}
